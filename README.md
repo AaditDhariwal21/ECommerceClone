@@ -18,3 +18,12 @@ Tech Stack:
 --React with JS
 --Tailwind for styling
 --Uses FakeStoreAPI for Products and their info.
+
+
+--SetUp Instructions:
+1. Clone the Repository
+2. Navigate to the Project Directory
+3. Install Dependencies. (This project uses `npm` to manage dependencies)
+4. Run the Project Locally
+5. Open the project in your browser.
+
