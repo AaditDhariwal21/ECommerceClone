@@ -18,4 +18,3 @@ Tech Stack:
 --React with JS
 --Tailwind for styling
 --Uses FakeStoreAPI for Products and their info.
->>>>>>> fb61cd4b0c508b9d799e46a03f89eafe8a65c301
